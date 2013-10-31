@@ -5,4 +5,9 @@ obj/
 build/
 *.userprefs
 build/
+# Xamarin component files:
 *.xam
+# emacs temp files and backups:
+[#]*[#]
+.\#*
+*~
