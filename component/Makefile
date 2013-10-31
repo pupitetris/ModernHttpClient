@@ -20,7 +20,7 @@ clean:
 
 # Component vars and targets
 
-.PHONY: all xam component install uninstall clean vendor patch
+.PHONY: all xam component install uninstall clean vendor
 
 # Path to xamarin-component.exe (get it from https://components.xamarin.com/guidelines)
 XAMARIN_COMPONENT ?= ./xamarin-component.exe
